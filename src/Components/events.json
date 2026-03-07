@@ -310,6 +310,17 @@
         "25_EVENTS/event_pics/exlec1.png",
         "25_EVENTS/event_pics/exlec2.png"
       ]
+    },
+{ "id": 25,
+      "event_title": "Machine Learning Using MATLAB 3.0",
+       "date": " September 26 ,2025",
+       "year": 2025,
+      "speaker": "Dr. Nisha Chetana Sastry, PhD, MathWorks India",
+      "images": [
+       "25_EVENTS/event_pics/ml.png",
+        "25_EVENTS/event_pics/ml1.png",
+        "25_EVENTS/event_pics/ml2.png"
+      ]
     }
   ]
   
