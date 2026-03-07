@@ -299,6 +299,17 @@
         "25_EVENTS/event_pics/GWD2.jpg",
         "25_EVENTS/event_pics/gwd3.jpg"
       ]
+    },
+{ "id": 24,
+      "event_title": "Expert Lecture: AI in Battery Management Systems for Electric Vehicles (EVs)",
+       "date": " August 4 ,2025",
+       "year": 2025,
+      "speaker": "Prof. Maher Al Greer, Teesside University, UK",
+      "images": [
+       "25_EVENTS/posters/exlec.png",
+        "25_EVENTS/event_pics/exlec1.jpg",
+        "25_EVENTS/event_pics/exlec2.jpg"
+      ]
     }
   ]
   
