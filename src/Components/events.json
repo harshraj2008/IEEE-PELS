@@ -332,6 +332,17 @@
         "25_EVENTS/event_pics/hack1.png",
         "25_EVENTS/event_pics/hack2.png"
       ]
+    },
+{ "id": 27,
+      "event_title": "Outreach Program at Takshilah School, Vellore",
+       "date": " November 4 ,2025",
+       "year": 2025,
+      "speaker": "Student activity",
+      "images": [
+       "25_EVENTS/event_pics/takshila.png",
+        "25_EVENTS/event_pics/takshila1.png",
+        "25_EVENTS/event_pics/takshila2.png"
+      ]
     }
   ]
   
