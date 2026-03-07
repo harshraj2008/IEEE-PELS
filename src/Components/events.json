@@ -321,6 +321,17 @@
         "25_EVENTS/event_pics/ml1.png",
         "25_EVENTS/event_pics/ml2.png"
       ]
+    },
+{ "id": 26,
+      "event_title": "Hackovation 2.0 – A 24-Hour Hackathon Promoting Innovation and Technical Excellence",
+       "date": " September 26 ,2025",
+       "year": 2025,
+      "speaker": "Mr. Kanishka Mukherjee, CEO and Founder of CHART Techno Solutions",
+      "images": [
+       "25_EVENTS/event_pics/hack.png",
+        "25_EVENTS/event_pics/hack1.png",
+        "25_EVENTS/event_pics/hack2.png"
+      ]
     }
   ]
   
