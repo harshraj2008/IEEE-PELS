@@ -271,6 +271,98 @@
             "member_name": "Aryan Gadhiya",
             "member_img_link": "BOARDOF22-23/im14.jpg",
             "tenure": "2022-2023"
+        },
+        {
+            "id":37,
+            "member_position": "Chairperson",
+            "member_name": "Pendekante Jeevan",
+            "member_img_link": "BOARDOF25-26/chairperson.png",
+            "tenure": "2025-2026"
+        },
+        {
+            "id":38,
+            "member_position": "Vice Chairperson",
+            "member_name": "Hardik Agarwal",
+            "member_img_link": "BOARDOF25-26/vicechair.png",
+            "tenure": "2025-2026"
+        },
+        {
+            "id":39,
+            "member_position": "Secretary",
+            "member_name": "Prince Kumar",
+            "member_img_link": "BOARDOF25-26/sec.png",
+            "tenure": "2025-2026"
+        },
+        {
+            "id":40,
+            "member_position": "Co-Secretary",
+            "member_name": "Abhinav Sharma",
+            "member_img_link": "BOARDOF25-26/cosec.png",
+            "tenure": "2025-2026"
+        },
+        {
+            "id":41,
+            "member_position": "Technical Head",
+            "member_name": "Mohit Sethi",
+            "member_img_link": "BOARDOF25-26/techinalhead.png",
+            "tenure": "2025-2026"
+        },
+        {
+            "id":42,
+            "member_position": "Design Head",
+            "member_name": " Malavika Anilkumar",
+            "member_img_link": "BOARDOF25-26/designheadf.png",
+            "tenure": "2025-2026"
+        },
+        {
+            "id":43,
+            "member_position": "Editorial Head",
+            "member_name": "Aryan Yadav",
+            "member_img_link": "BOARDOF25-26/editorialhead.png",
+            "tenure": "2025-2026"
+        },
+        {
+            "id":44,
+            "member_position": "Publicity & Marketing Head",
+            "member_name": "Swastika Chakravorty",
+            "member_img_link": 	"BOARDOF25-26/publicityhead.png",
+            "tenure": 	"2025-2026"
+        },
+        {
+            "id":45,
+            "member_position": 	"Finance Head",
+            "member_name": 	"Abhinav Jain",
+            "member_img_link": 	"BOARDOF25-26/financehead.png",
+            "tenure": 	"2025-2026"
+        },
+        {
+            "id":46,
+            "member_position": 	"Events Head",
+            "member_name": 	"Sugan Rathi",
+            "member_img_link": 	"BOARDOF25-26/eventhead.png",
+            "tenure": 	"2025-2026"
+        },
+        {
+            "id":47,
+            "member_position": 	"Operations Head",
+            "member_name": 	"Isha Ismail",
+            "member_img_link": 	"BOARDOF25-26/operationhead.png",
+            "tenure": 	"2025-2026"
+        },
+        {
+            "id":48,
+            "member_position": 	"Outreach Head",
+            "member_name": 	"Kunal Mehrotra",
+            "member_img_link": 	"BOARDOF25-26/outreachead.png",
+            "tenure": 	"2025-2026"
+        },
+        {
+            "id":49,
+            "member_position": 	"Projects Head",
+            "member_name": 	"Abheek Choudhury",
+            "member_img_link": 	"BOARDOF25-26/projecthead.png",
+            "tenure": 	"2025-2026"
         }
     ]
-    
+
+
