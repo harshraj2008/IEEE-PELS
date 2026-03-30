@@ -309,10 +309,10 @@
         },
         {
             "id":42,
-            "member_position": "Design Head",
-            "member_name": " Malavika Anilkumar",
-            "member_img_link": "BOARDOF25-26/designheadf.png",
-            "tenure": "2025-2026"
+            "member_position": 	"Projects Head",
+            "member_name": 	"Abheek Choudhury",
+            "member_img_link": 	"BOARDOF25-26/projecthead.png",
+            "tenure": 	"2025-2026"
         },
         {
             "id":43,
@@ -357,11 +357,11 @@
             "tenure": 	"2025-2026"
         },
         {
-            "id":49,
-            "member_position": 	"Projects Head",
-            "member_name": 	"Abheek Choudhury",
-            "member_img_link": 	"BOARDOF25-26/projecthead.png",
-            "tenure": 	"2025-2026"
+            "id":42,
+            "member_position": "Design Head",
+            "member_name": " Malavika Anilkumar",
+            "member_img_link": "BOARDOF25-26/designheadf.png",
+            "tenure": "2025-2026"
         }
     ]
 
