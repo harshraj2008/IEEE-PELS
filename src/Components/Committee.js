@@ -4,7 +4,7 @@ import members from './committee_members.json';
 import advisoryBoard from './advisoryboard.json';
 
 function Committee() {
-  const [selectedTenure, setSelectedTenure] = useState('2024-2025');
+  const [selectedTenure, setSelectedTenure] = useState('2025-2026');
   const titleRef = useRef(null);
 
   const filteredMembers = members.filter(member => member.tenure === selectedTenure);
