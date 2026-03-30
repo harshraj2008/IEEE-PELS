@@ -147,7 +147,7 @@ function Home() {
           </div>
         )}
 
-          div className="newsletterSection">
+          <div className="newsletterSection">
           <div className="newsletterContent">
             <h2>📰 IEEE PELS NEWSLETTER 2025</h2>
             <p>Stay updated with our latest news, events, and announcements</p>
