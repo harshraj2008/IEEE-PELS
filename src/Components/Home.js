@@ -108,7 +108,7 @@ function Home() {
         {(events.length > 0 || notifications.length > 0) && (
           <div className="eventNotificationSection">
             <div className="upcomingEventsTitle">
-              <h2>📢 Upcoming Events & Notifications</h2>
+              <h2>📢 Announcements</h2>
             </div>
 
             {events.length > 0 && (
